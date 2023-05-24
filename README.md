@@ -6,6 +6,7 @@ Introduction into Golang. A basic introduction into golang with go mod init and 
 ## Prerequiste
 1. Fork repo.
 2. start Codespace.
+3. Share your repo url.
 
 ## Steps
 1. Init
